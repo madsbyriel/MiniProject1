@@ -1,0 +1,3 @@
+-d out
+-sourcepath src/main/java/ src/main/java/dat3/booking/Main.java
+./src/main/java/dat3/booking/Main.java
